@@ -19,7 +19,7 @@ dependencies:
   location_platform_interface:
     git:
       url: https://github.com/rasuldev/flutterlocation.git
-      ref: optional_all_time_location
+      ref: fixed_path
       path: packages/location_platform_interface
 
 dev_dependencies:
